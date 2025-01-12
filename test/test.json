@@ -1,0 +1,253 @@
+[
+    {
+      "question": "Which of the following words can be used as an adjective, adverb, pronoun or verb, depending on the context?",
+      "options": [
+        "Word",
+        " Sentence",
+        "Phrase",
+        "Text"
+      ],
+      "answer": [
+        1
+      ],
+      "metadata": {
+        "class": "Class_4",
+        "subject": "English",
+        "topic": "Grammar_Basics",
+        "id": 1,
+        "type": "objective",
+        "difficulty": "high"
+      }
+    },
+  {
+    "question": "Identify the part of speech of the word 'run' in the sentence: 'After her jog, she will ____________________ as fast as She can.'?",
+    "options": [
+      "Verb",
+      "Adverb",
+      "Adjective",
+      "Noun"
+    ],
+    "answer": [
+      0
+    ],
+    "metadata": {
+      "class": "Class_4",
+      "subject": "English",
+      "topic": "Grammar_Basics",
+      "id": 1,
+      "type": "objective",
+      "difficulty": "high"
+    }
+  },
+  {
+    "question": "Identify the parts of speech of the underlined words: The sun sets ______________ slowly in the west. The stars ______________ twinkling. The trees ______________ swaying gently.",
+    "options": [
+      "above,noun,adjective,noun, above,noun,verb,adverb; above,verb,noun,verb"
+    ],
+    "answer": [
+      3,
+      2,
+      2
+    ],
+    "solution": "noun; verb; adjective",
+    "metadata": {
+      "class": "Class_4",
+      "subject": "English",
+      "topic": "Grammar_Basics",
+      "id": 3,
+      "type": "objective",
+      "difficulty": "high"
+    }
+  },
+  {
+    "question": "Complete the sentence with the correct form of the verb: By the time I ______________, it was already midnight. If I ______________ earlier, I would have been there on time.",
+    "options": [
+      "arrived,had; arrived,had"
+    ],
+    "answer": [
+      -1
+    ],
+    "solution": "arrived; had not arrived",
+    "metadata": {
+      "class": "Class_4",
+      "subject": "English",
+      "topic": "Grammar_Basics",
+      "id": 3,
+      "type": "objective",
+      "difficulty": "high"
+    }
+  },
+  {
+    "question": "Which of the following words can be used as both a noun and a verb?",
+    "options": [
+      "Run",
+      "Book",
+      "Read",
+      "Tree"
+    ],
+    "answer": [
+      0
+    ],
+    "metadata": {
+      "class": "Class_4",
+      "subject": "English",
+      "topic": "Grammar_Basics",
+      "id": 5,
+      "type": "objective",
+      "difficulty": "high"
+    }
+  },
+  {
+    "question": "Which of the following statements is/are true for any field K and any polynomial f(x) ∈ K[x]?",
+    "options": [
+      "The derivative of f(x) is also a polynomial in K[x]",
+      "The derivative of f(x) is not necessarily a polynomial in K[x]",
+      "f(x) is irreducible iff f'(x) is irreducible",
+      "f(x) is irreducible implies f'(x) is irreducible"
+    ],
+    "answer": [
+      2
+    ],
+    "solution": "",
+    "metadata": {
+      "class": "Class_12",
+      "stream": "Science_Stream",
+      "subject": "Mathematics",
+      "topic": "Ring_and_Field_Theory",
+      "id": 19167,
+      "type": "objective",
+      "difficulty": "high"
+    }
+  },
+  {
+    "question": "In a field F, the equation x^2 + y^2 + 4x + 6y = 29 is satisfied by all points on the graph of a_____.",
+    "options": [
+      "hyperbola",
+      "ellipse",
+      "parabola",
+      "circle"
+    ],
+    "answer": [
+      3
+    ],
+    "solution": "Since a^2 = 1, the equation is of elliptic form and so it represents an ellipse.",
+    "metadata": {
+      "class": "Class_12",
+      "stream": "Science_Stream",
+      "subject": "Mathematics",
+      "topic": "Ring_and_Field_Theory",
+      "id": 19169,
+      "type": "objective",
+      "difficulty": "high"
+    }
+  },
+  {
+    "question": "Which of the following is a characteristic of the ring of integers modulo n (Z_n, +, .) for n > 2?",
+    "options": [
+      "It is a commutative ring with 1 but not an integral domain",
+      "It is a commutative ring with 1 and an integral domain",
+      "It is not a commutative ring with 1",
+      "It is not a commutative ring with 1 and not an integral domain"
+    ],
+    "answer": [
+      2
+    ],
+    "solution": "Since the ring is commutative, has 1 and is an integral domain which does not have any zero-divisor except 0.",
+    "metadata": {
+      "class": "Class_12",
+      "stream": "Science_Stream",
+      "subject": "Mathematics",
+      "topic": "Ring_and_Field_Theory",
+      "id": 19169,
+      "type": "objective",
+      "difficulty": "high"
+    }
+  },
+  {
+    "question": "Let R be a ring with identity and a, b, c be elements of R such that ab = ac and a ≠ 0. Then:",
+    "options": [
+      "a is a left zero divisor",
+      "a is a right zero divisor",
+      "a is a unit",
+      "b = c"
+    ],
+    "answer": [
+      1,
+      3
+    ],
+    "metadata": {
+      "class": "Class_12",
+      "stream": "Science_Stream",
+      "subject": "Mathematics",
+      "topic": "Ring_and_Field_Theory",
+      "id": 19171,
+      "type": "objective",
+      "difficulty": "high"
+    }
+  },
+  {
+    "question": "In a field F, let p(x) and g(x) be non-zero polynomials such that deg(p) > deg(g) and g(x)|p(x). Then:",
+    "options": [
+      "p(x) | g(x)",
+      "p(x) ⊥ g(x)",
+      "p(x) ⋊ g(x)",
+      "deg(p) ≥ deg(g)"
+    ],
+    "answer": [
+      3
+    ],
+    "metadata": {
+      "class": "Class_12",
+      "stream": "Science_Stream",
+      "subject": "Mathematics",
+      "topic": "Ring_and_Field_Theory",
+      "id": 19171,
+      "type": "objective",
+      "difficulty": "high"
+    }
+  },
+  {
+    "question": "Let R be a commutative ring with 1 and G be a subgroup of the multiplicative group of units of R. Then, which of the following is/are TRUE?",
+    "options": [
+      "G is a normal subgroup of the multiplicative group of units of R",
+      "G contains the identity element 1 of R",
+      "R is a commutative ring",
+      "G is a subgroup of the additive group of R"
+    ],
+    "answer": [
+      1,
+      2
+    ],
+    "metadata": {
+      "class": "Class_12",
+      "stream": "Science_Stream",
+      "subject": "Mathematics",
+      "topic": "Ring_and_Field_Theory",
+      "id": 19173,
+      "type": "objective",
+      "difficulty": "high"
+    }
+  },
+  {
+    "question": "Let K be a splitting field of polynomial x^3 + x^2 - 2x - 1 over the field F = Q[x] and K ⊇ F ⊇ Q. If σ is a generator of the Galois group Gal(K/F), then which of the following polynomials are/are not in the fixed field K^σ?",
+    "options": [
+      "x^3 + x^2 - 2x - 1",
+      "x^3 + x - 2",
+      "x^2 + 2x + 1",
+      "x^3 - x^2 + x - 1"
+    ],
+    "answer": [
+      0,
+      2
+    ],
+    "metadata": {
+      "class": "Class_12",
+      "stream": "Science_Stream",
+      "subject": "Mathematics",
+      "topic": "Ring_and_Field_Theory",
+      "id": 19173,
+      "type": "objective",
+      "difficulty": "high"
+    }
+  }
+]

@@ -1,0 +1,1387 @@
+[
+    {
+        "question": "1. Which of the following properties is true for rational numbers under addition?",
+        "options": [
+            "A) Commutative and associative",
+            "B) Commutative but not associative",
+            "C) Associative but not commutative",
+            "D) Neither commutative nor associative"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 2,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "2. What is the additive identity for rational numbers?",
+        "options": [
+            "A) 1",
+            "B) 0",
+            "C) -1",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 4,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "3. Which of the following operations is not associative for rational numbers?",
+        "options": [
+            "A) Addition",
+            "B) Subtraction",
+            "C) Multiplication",
+            "D) Division"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 6,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "4. What is the multiplicative identity for rational numbers?",
+        "options": [
+            "A) 0",
+            "B) 1",
+            "C) -1",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 8,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "5. Which of the following statements is true for rational numbers?",
+        "options": [
+            "A) Rational numbers are closed under division",
+            "B) Rational numbers are not closed under division",
+            "C) Rational numbers are closed under subtraction but not addition",
+            "D) Rational numbers are closed under multiplication but not addition"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 10,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "6. What is the property that allows us to compute 3 \u00d7 (2 \u00d7 5) = (3 \u00d7 2) \u00d7 5?",
+        "options": [
+            "A) Commutativity",
+            "B) Associativity",
+            "C) Distributivity",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 12,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "7. Which of the following is an example of distributivity of multiplication over addition for rational numbers?",
+        "options": [
+            "A) 2 \u00d7 (3 + 4) = 2 \u00d7 3 + 2 \u00d7 4",
+            "B) 2 \u00d7 (3 - 4) = 2 \u00d7 3 - 2 \u00d7 4",
+            "C) 2 \u00d7 (3 + 4) = 2 \u00d7 4 + 2 \u00d7 3",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 14,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "8. Which of the following operations is commutative for rational numbers?",
+        "options": [
+            "A) Addition and multiplication",
+            "B) Subtraction and division",
+            "C) Addition and subtraction",
+            "D) Multiplication and division"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 16,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "9. What is the result of the expression 2 \u00d7 (3 - 4) using distributivity?",
+        "options": [
+            "A) 2 \u00d7 3 - 2 \u00d7 4",
+            "B) 2 \u00d7 4 - 2 \u00d7 3",
+            "C) 2 \u00d7 3 + 2 \u00d7 4",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 18,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "10. Which of the following statements is true for rational numbers under multiplication?",
+        "options": [
+            "A) Rational numbers are closed under multiplication",
+            "B) Rational numbers are not closed under multiplication",
+            "C) Multiplication is commutative but not associative",
+            "D) Multiplication is associative but not commutative"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 20,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "1. Which of the following equations led to the introduction of integers?",
+        "options": [
+            "A) x + 2 = 13",
+            "B) x + 5 = 5",
+            "C) x + 18 = 5",
+            "D) 2x = 3"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 12,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "2. Which of the following is a rational number?",
+        "options": [
+            "A) 0",
+            "B) -2",
+            "C) 3/4",
+            "D) All of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 14,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "3. What is the additive identity for rational numbers?",
+        "options": [
+            "A) 1",
+            "B) 0",
+            "C) -1",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 16,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "4. Which of the following operations is not commutative for rational numbers?",
+        "options": [
+            "A) Addition",
+            "B) Subtraction",
+            "C) Multiplication",
+            "D) Division"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 18,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "5. What is the multiplicative identity for rational numbers?",
+        "options": [
+            "A) 0",
+            "B) 1",
+            "C) -1",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 20,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "6. Which of the following statements is true for rational numbers?",
+        "options": [
+            "A) Rational numbers are closed under division",
+            "B) Rational numbers are not closed under addition",
+            "C) Rational numbers are closed under multiplication and addition",
+            "D) Rational numbers are not closed under subtraction"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 22,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "7. Which of the following properties is used in the expression 2 \u00d7 (3 + 4) = 2 \u00d7 3 + 2 \u00d7 4?",
+        "options": [
+            "A) Commutativity",
+            "B) Associativity",
+            "C) Distributivity",
+            "D) Closure"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 24,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "8. What is the result of the expression 5 - (3 - 2)?",
+        "options": [
+            "A) 4",
+            "B) 0",
+            "C) -4",
+            "D) 5"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 26,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "9. Which of the following is an example of the distributive property of multiplication over addition for rational numbers?",
+        "options": [
+            "A) 2 \u00d7 (3 + 4) = 2 \u00d7 3 + 2 \u00d7 4",
+            "B) 2 \u00d7 (3 - 4) = 2 \u00d7 3 - 2 \u00d7 4",
+            "C) 2 \u00d7 (3 + 4) = 2 \u00d7 3 - 2 \u00d7 4",
+            "D) 2 \u00d7 (3 - 4) = 2 \u00d7 3 + 2 \u00d7 4"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 28,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "10. Which of the following statements is true for rational numbers?",
+        "options": [
+            "A) Rational numbers are closed under all four operations",
+            "B) Rational numbers are not closed under any of the four operations",
+            "C) Rational numbers are closed under addition, subtraction, and multiplication",
+            "D) Rational numbers are closed under addition, multiplication, and division, but not subtraction"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 30,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**1. Which of the following properties is true for rational numbers under addition?**",
+        "options": [
+            "a) Commutative and Associative",
+            "b) Commutative but not Associative",
+            "c) Associative but not Commutative",
+            "d) Neither Commutative nor Associative"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 22,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**2. Which of the following is the additive identity for rational numbers?**",
+        "options": [
+            "a) 1",
+            "b) 0",
+            "c) -1",
+            "d) None of these"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 24,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**3. What is the product of two rational numbers?**",
+        "options": [
+            "a) Always an integer",
+            "b) Always a rational number",
+            "c) Always an irrational number",
+            "d) None of these"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 26,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**4. Which of the following properties is true for rational numbers under multiplication?**",
+        "options": [
+            "a) Commutative and Associative",
+            "b) Commutative but not Associative",
+            "c) Associative but not Commutative",
+            "d) Neither Commutative nor Associative"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 28,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**5. Which of the following is the multiplicative identity for rational numbers?**",
+        "options": [
+            "a) 0",
+            "b) 1",
+            "c) -1",
+            "d) None of these"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 30,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**6. What is the result of dividing a rational number by 0?**",
+        "options": [
+            "a) A rational number",
+            "b) An integer",
+            "c) An irrational number",
+            "d) Not defined"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 32,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**7. Which of the following operations is not associative for rational numbers?**",
+        "options": [
+            "a) Addition",
+            "b) Subtraction",
+            "c) Multiplication",
+            "d) Division"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 34,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**8. Which of the following properties is true for rational numbers under division?**",
+        "options": [
+            "a) Commutative and Associative",
+            "b) Commutative but not Associative",
+            "c) Associative but not Commutative",
+            "d) Neither Commutative nor Associative"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 36,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "1. Which of the following properties is true for rational numbers?",
+        "options": [
+            "A) Closure under division",
+            "B) Commutativity under subtraction",
+            "C) Associativity under addition",
+            "D) Distributivity of multiplication over addition"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 30,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "2. What is the additive identity for rational numbers?",
+        "options": [
+            "A) 1",
+            "B) 0",
+            "C) -1",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 32,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "3. Which of the following statements is true?",
+        "options": [
+            "A) Rational numbers are closed under division",
+            "B) Integers are closed under subtraction",
+            "C) Whole numbers are closed under multiplication",
+            "D) All of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 34,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "4. What is the multiplicative identity for rational numbers?",
+        "options": [
+            "A) 0",
+            "B) 1",
+            "C) -1",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 36,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "5. Which of the following properties is not true for rational numbers?",
+        "options": [
+            "A) Commutativity under addition",
+            "B) Associativity under multiplication",
+            "C) Distributivity of multiplication over subtraction",
+            "D) Closure under division"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 38,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "6. What is the role of zero in the addition of rational numbers?",
+        "options": [
+            "A) It is the multiplicative identity",
+            "B) It is the additive identity",
+            "C) It is the reciprocal",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 40,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "7. Which of the following statements is true for rational numbers?",
+        "options": [
+            "A) They are closed under addition, subtraction, and multiplication",
+            "B) They are closed under addition and multiplication, but not subtraction",
+            "C) They are closed under addition, subtraction, and division",
+            "D) They are not closed under any of the operations"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 42,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "8. What is the distributivity property of rational numbers?",
+        "options": [
+            "A) a(b + c) = ab - ac",
+            "B) a(b + c) = ab + ac",
+            "C) a(b - c) = ab - ac",
+            "D) a(b - c) = ab + ac"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 44,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "9. Which of the following is an example of the distributivity property of rational numbers?",
+        "options": [
+            "A) 2(3 + 4) = 2(3) - 2(4)",
+            "B) 2(3 + 4) = 2(3) + 2(4)",
+            "C) 2(3 - 4) = 2(3) - 2(4)",
+            "D) 2(3 - 4) = 2(3) + 2(4)"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 46,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "10. Which of the following statements is true for rational numbers?",
+        "options": [
+            "A) Between any two rational numbers, there is only one rational number",
+            "B) Between any two rational numbers, there are no rational numbers",
+            "C) Between any two rational numbers, there are countless rational numbers",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 48,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**MCQ 1**",
+        "options": [
+            "What is the additive identity for rational numbers?",
+            "A) 1",
+            "B) 0",
+            "C) -1",
+            "D) None of these"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 40,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**MCQ 2**",
+        "options": [
+            "Which of the following operations is commutative for rational numbers?",
+            "A) Addition and subtraction",
+            "B) Addition and multiplication",
+            "C) Subtraction and division",
+            "D) Multiplication and division"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 42,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**MCQ 3**",
+        "options": [
+            "What is the result of the operation 2/3 \u00d7 (1/4 + 1/5) using distributivity?",
+            "A) (2/3) \u00d7 (1/4) + (2/3) \u00d7 (1/5)",
+            "B) (2/3) \u00d7 (1/4) - (2/3) \u00d7 (1/5)",
+            "C) (2/3) \u00d7 (1/4) \u00f7 (2/3) \u00d7 (1/5)",
+            "D) None of these"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 44,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**MCQ 4**",
+        "options": [
+            "Which of the following statements is true for rational numbers?",
+            "A) Rational numbers are closed under division",
+            "B) Rational numbers are not closed under addition",
+            "C) Rational numbers are closed under multiplication and addition",
+            "D) Rational numbers are not closed under subtraction"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 46,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "**MCQ 5**",
+        "options": [
+            "What is the multiplicative identity for rational numbers?",
+            "A) 0",
+            "B) 1",
+            "C) -1",
+            "D) None of these"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 48,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "1. What property of rational numbers states that the sum of two rational numbers is again a rational number?",
+        "options": [
+            "A) Closure",
+            "B) Commutativity",
+            "C) Associativity",
+            "D) Distributivity"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 45,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "2. Which of the following operations is not commutative for rational numbers?",
+        "options": [
+            "A) Addition",
+            "B) Subtraction",
+            "C) Multiplication",
+            "D) Division"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 47,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "3. What is the additive identity for rational numbers?",
+        "options": [
+            "A) 1",
+            "B) 0",
+            "C) -1",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 49,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "4. What is the multiplicative identity for rational numbers?",
+        "options": [
+            "A) 0",
+            "B) 1",
+            "C) -1",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 51,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "5. Which of the following properties states that a \u00d7 (b + c) = ab + ac for all rational numbers a, b, and c?",
+        "options": [
+            "A) Closure",
+            "B) Commutativity",
+            "C) Associativity",
+            "D) Distributivity"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 53,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "6. What is the result of the operation 2/3 + 1/4?",
+        "options": [
+            "A) 3/7",
+            "B) 5/7",
+            "C) 7/12",
+            "D) 11/12"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 55,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "7. Which of the following is an example of the distributive property of multiplication over addition?",
+        "options": [
+            "A) 2 \u00d7 (3 + 4) = 2 \u00d7 3 + 2 \u00d7 4",
+            "B) 2 \u00d7 (3 - 4) = 2 \u00d7 3 - 2 \u00d7 4",
+            "C) 2 \u00d7 (3 + 4) = 2 \u00d7 3 - 2 \u00d7 4",
+            "D) 2 \u00d7 (3 - 4) = 2 \u00d7 3 + 2 \u00d7 4"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 57,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "8. What is the result of the operation 3/4 \u00d7 2/3?",
+        "options": [
+            "A) 1/2",
+            "B) 1/4",
+            "C) 3/6",
+            "D) 6/12"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 59,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "1. What is the additive identity for rational numbers?",
+        "options": [
+            "A) 1",
+            "B) 0",
+            "C) -1",
+            "D) None of these"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 53,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "2. Which of the following operations is not commutative for rational numbers?",
+        "options": [
+            "A) Addition",
+            "B) Subtraction",
+            "C) Multiplication",
+            "D) Division"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 55,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "3. What is the multiplicative identity for rational numbers?",
+        "options": [
+            "A) 0",
+            "B) 1",
+            "C) -1",
+            "D) None of these"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 57,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "4. Which of the following statements is true for rational numbers?",
+        "options": [
+            "A) They are closed under addition, subtraction, multiplication, and division.",
+            "B) They are closed under addition, subtraction, and multiplication, but not division.",
+            "C) They are closed under addition and multiplication, but not subtraction and division.",
+            "D) They are not closed under any of the four operations."
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 59,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "5. What is the distributive property of multiplication over addition for rational numbers?",
+        "options": [
+            "A) a(b + c) = ab + ac",
+            "B) a(b + c) = ab - ac",
+            "C) a(b + c) = ab + bc",
+            "D) a(b + c) = ab - bc"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 61,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "6. Which of the following is an example of the associative property of addition for rational numbers?",
+        "options": [
+            "A) (a + b) + c = a + (b + c)",
+            "B) (a + b) + c = a + (b - c)",
+            "C) (a + b) + c = a + (b \u00d7 c)",
+            "D) (a + b) + c = a + (b \u00f7 c)"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 63,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "7. Which of the following operations is associative for rational numbers?",
+        "options": [
+            "A) Addition",
+            "B) Subtraction",
+            "C) Multiplication",
+            "D) All of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 65,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "8. What is the property that allows you to compute 1/3 \u00d7 1/4 \u00d7 1/5 as (1/3 \u00d7 1/4) \u00d7 1/5 or 1/3 \u00d7 (1/4 \u00d7 1/5)?",
+        "options": [
+            "A) Commutative property",
+            "B) Associative property",
+            "C) Distributive property",
+            "D) None of these"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 67,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "1. Which of the following properties is true for rational numbers under addition?",
+        "options": [
+            "A) Closure",
+            "B) Commutativity",
+            "C) Associativity",
+            "D) All of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 61,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "2. What is the result of the operation 5 \u00f7 8 in the set of whole numbers?",
+        "options": [
+            "A) A whole number",
+            "B) A rational number",
+            "C) An integer",
+            "D) Not defined"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 63,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "3. Which of the following operations is commutative for rational numbers?",
+        "options": [
+            "A) Addition",
+            "B) Subtraction",
+            "C) Multiplication",
+            "D) Division"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 65,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "4. What is the multiplicative identity for rational numbers?",
+        "options": [
+            "A) 0",
+            "B) 1",
+            "C) -1",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 67,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "5. Is the operation of division associative for rational numbers?",
+        "options": [
+            "A) Yes",
+            "B) No",
+            "C) Sometimes",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 69,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "6. What is the additive identity for rational numbers?",
+        "options": [
+            "A) 0",
+            "B) 1",
+            "C) -1",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 71,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "7. Which of the following properties is true for rational numbers under multiplication?",
+        "options": [
+            "A) Closure",
+            "B) Commutativity",
+            "C) Associativity",
+            "D) All of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 73,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "8. Can you find a rational number between any two given rational numbers?",
+        "options": [
+            "A) Yes",
+            "B) No",
+            "C) Sometimes",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 75,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "9. What is the distributive property of multiplication over addition for rational numbers?",
+        "options": [
+            "A) a(b + c) = ab + ac",
+            "B) a(b + c) = ab - ac",
+            "C) a(b - c) = ab + ac",
+            "D) a(b - c) = ab - ac"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 77,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    },
+    {
+        "question": "10. Which of the following is a rational number?",
+        "options": [
+            "A) 2/3",
+            "B) 5/0",
+            "C) \u221a2",
+            "D) None of the above"
+        ],
+        "answer": [
+            1
+        ],
+        "metadata": {
+            "class": "Class_4",
+            "subject": "Math",
+            "topic": "Auto-Generated",
+            "id": 79,
+            "type": "objective",
+            "difficulty": "medium"
+        }
+    }
+]
